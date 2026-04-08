@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ahlam 👋
 
-<!--
-**Futabasama/Futabasama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student passionate about building real-world digital products.
+I focus on clean architecture, scalable systems, and creating smooth user experiences from backend to mobile interface.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into complete products — not just prototypes — with solid structure and real-world usability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  What I'm Currently Working On
+
+* **Upon** — a full product built as a monorepo
+* Backend architecture with **NestJS**
+* Mobile app development with **React Native**
+* Designing UI/UX and product structure
+
+##  Tools & Technologies
+
+* **Backend:** NestJS, Node.js, TypeScript
+* **Mobile:** React Native
+* **Architecture:** Clean Architecture, Monorepo structure
+* **Design:** Figma
+* **Database:** (MongoDB / PostgreSQL — ila katst3ml chi wahed n7to)
+
+##  Technical Interests
+
+* System Architecture
+* Scalable APIs
+* Mobile Applications
+* Product-Oriented Development
+
+##  How to Reach Me
+
+* GitHub: [your-github]
+* LinkedIn: [your-linkedin]
+* Email: [your-email]
+Senior-level personal branding** 
