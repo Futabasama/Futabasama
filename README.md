@@ -9,13 +9,11 @@ I enjoy turning ideas into complete products — not just prototypes — with so
 
 * **Upon** — a full product built as a monorepo
 * Backend architecture with **NestJS**
-* Mobile app development with **React Native**
 * Designing UI/UX and product structure
 
 ##  Tools & Technologies
 
 * **Backend:** NestJS, Node.js, TypeScript
-* **Mobile:** React Native
 * **Architecture:** Clean Architecture, Monorepo structure
 * **Design:** Figma
 * **Database:** (MongoDB / PostgreSQL — ila katst3ml chi wahed n7to)
@@ -29,7 +27,5 @@ I enjoy turning ideas into complete products — not just prototypes — with so
 
 ##  How to Reach Me
 
-* GitHub: [your-github]
-* LinkedIn: [your-linkedin]
-* Email: [your-email]
-Senior-level personal branding** 
+* GitHub: Futabasama.
+
