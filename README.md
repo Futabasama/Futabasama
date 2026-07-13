@@ -32,7 +32,7 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 
 <div align="center">
 
-### ◈ Front-end & Mobile
+### ◈ Front-end 
 <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=7DCFFF" />
 
