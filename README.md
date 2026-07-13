@@ -18,7 +18,7 @@ I'm Ahlam Garah, a Computer Science student and Frontend Developer
   <a href="mailto:ahlamgarah17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="https://www.instagram.com/ahl_am_a1?igsh=MWY0M3hmMXd0OGxqNw==">
+  <a href="https://www.instagram.com/ahl_am_a0?igsh=MWY0M3hmMXd0OGxqNw==">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
 </p>
