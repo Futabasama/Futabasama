@@ -1,72 +1,66 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Garah%20Ahlam&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
-
-I'm Ahlam Garah, a Computer Science student and Frontend Developer 
-
-💡 *“Crafting logic and elegance in every line of code.”*
-
----
-
 <div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+  <h1>Hello, I’m Ahlam 👋</h1>
+  <p>
+    <strong>Computer Science Student</strong><br/>
+    Fullstack Developer  • UI/UX
+  </p>
+
+  <img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+ideas;Smooth+mobile+%7C+Robust+backend;Clean+and+scalable+architecture;UX-focused+interfaces" 
+/>
+
 </div>
 
 ---
 
-### 📬 Connect with Me  
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) About me
 
-<p align="center">
-  <a href="mailto:ahlamgarah17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
-  </a>
-  <a href="https://www.instagram.com/ahl_am_a0?igsh=MWY0M3hmMXd0OGxqNw==">
-    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
-  </a>
-</p>
+I am a **Computer Science student** passionate about turning ideas into **solid, scalable, and well-designed digital products**.
 
-<p align="center">
-  <a href="https://github.com/Saboo24">
-    <img src="https://komarev.com/ghpvc/?username=Futabasama&color=3a8296&label=Profile%20Views" />
-  </a>
-  <a href="https://github.com/Futabasama">
-    <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" />
-  </a>
-</p>
+I work from **back-end to interface**, always prioritizing **clean architecture**, **code organization**, and **user experience**.
+
+I am currently developing **Upon**, a complete project that combines a **robust backend**, **mobile application**, and **well-defined UX**, designed as a real-world market product.
+
+- ▸ **Main project:** **Upon** monorepo (NestJS + React Native)
+- ▸ **Technical interests:** System architecture, well-designed APIs, and mobile applications
+- ▸ **UI/UX:** Prototyping and modern interface design with Figma
+- ▸ **Beyond code:** I work with high-complexity systems for Public Administration and write stories in my spare time
 
 ---
 
-### 🧠 Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,react&theme=light" />
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tech Stack
+
+<div align="center">
+
+### ◈ Front-end & Mobile
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=7DCFFF" />
+
+### ◈ Back-end
+<img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=9B4F96" />
+<img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=7A7AFF" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" />
+
+### ◈ Infra & Design
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4A90E2" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+
+</div>
+
+---
+
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Contacts
+
+<div align="center">
+  <a href="https://instagram.com/ahl_am_a0" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
-</p>
-
----
-
-### ⚙️ Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,unity&theme=light" />
+  <a href="mailto:ahlamgarah1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Statistics
-
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saboo24&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-<img src="https://streak-stats.demolab.com?user=Saboo24&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
-
-
----
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+  <a href="https://www.linkedin.com/in/ahlam-garah-165691391/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</div>
