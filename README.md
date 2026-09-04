@@ -1,57 +1,87 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahlam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building things on the internet&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ahlam+👋;Full-stack dev;Building things on the internet" alt="Typing SVG"/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A0b0b14%2C45%3A6d28d9%2C100%3A22d3ee&height=110&section=header&animation=fadeIn" alt="Developer analytics header" width="100%" />
+
 </div>
-
-## ⌨️ About Me
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-stack%20dev%3BBuilding%20things%20on%20the%20internet" alt="Typing SVG" />
-  </a>
-</p>
-
-## 🤝 Connect with me
-
-<p align="center">
-    
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Futabasama)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahl_am_a0)
-</p>
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,react,javascript,cplusplus,csharp,html,css,php,python,nodejs,framer&perline=8" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=Futabasama&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Futabasama&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-</p>
-
-## 💡 Top Languages
-
-<p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Futabasama&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-</p>
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Futabasama&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
-</p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<img src="https://avatars.githubusercontent.com/u/166661639?v=4" alt="Ahlam tech" width="96" />
+
+<h1>Hi, I’m Ahlam tech 👋</h1>
+
+<p><strong>Full-stack developer . Software engineering student</strong></p>
+
 </div>
 
-## 🛠️ Skills
+<div align="center">
 
-![c](https://img.shields.io/badge/-c-6E40C9?style=for-the-badge&logo=c&logoColor=white) ![react](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![javascript](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![cplusplus](https://img.shields.io/badge/-cplusplus-6E40C9?style=for-the-badge&logo=cplusplus&logoColor=white) ![csharp](https://img.shields.io/badge/-csharp-6E40C9?style=for-the-badge&logo=csharp&logoColor=white) ![html](https://img.shields.io/badge/-html-6E40C9?style=for-the-badge&logo=html&logoColor=white) ![css](https://img.shields.io/badge/-css-6E40C9?style=for-the-badge&logo=css&logoColor=white) ![php](https://img.shields.io/badge/-php-6E40C9?style=for-the-badge&logo=php&logoColor=white) ![python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![nodejs](https://img.shields.io/badge/-nodejs-6E40C9?style=for-the-badge&logo=nodejs&logoColor=white) ![framer](https://img.shields.io/badge/-framer-6E40C9?style=for-the-badge&logo=framer&logoColor=white) ![Git](https://img.shields.io/badge/-Git-6E40C9?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://github.com/Futabasama?tab=followers"><img src="https://img.shields.io/github/followers/Futabasama?style=flat&logo=github&label=Followers&color=a78bfa" alt="GitHub followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=Futabasama&style=flat&label=Profile%20views&color=a78bfa" alt="Profile views" />
+<img src="https://img.shields.io/github/stars/Futabasama?affiliations=OWNER&style=flat&logo=github&label=Stars&color=22d3ee" alt="GitHub stars" />
 
-## ✨ Quote
+</div>
 
-> Code. Learn. Build. Repeat.
+## About me
+
+💼 **Working as:** Full-stack developer
+
+## Tech stack
+
+<img src="https://img.shields.io/badge/TypeScript--151525?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/C--151525?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Python--151525?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C%2B%2B--151525?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/C%23--151525?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/PHP--151525?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/HTML5--151525?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3--151525?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/SQL--151525?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/React--151525?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Next.js--151525?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Node.js--151525?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+
+## GitHub statistics
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=Futabasama&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=percentile&bg_color=0b0b14&title_color=a78bfa&text_color=f5f3ff&icon_color=22d3ee&border_color=34344a" alt="Futabasama GitHub statistics" />
+
+</div>
+
+## Most used languages
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Futabasama&layout=compact&langs_count=8&hide_border=true&bg_color=0b0b14&title_color=a78bfa&text_color=f5f3ff&icon_color=22d3ee&border_color=34344a" alt="Futabasama top languages" />
+
+</div>
+
+> This card reflects code found in public repositories and is not an absolute measure of proficiency.
+
+## Contribution streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Futabasama&hide_border=true&theme=github-dark-blue&locale=en&mode=daily&date_format=j+M%5B+Y%5D&border_radius=8&hide_total_contributions=false&exclude_days_labels=false&background=0b0b14&ring=a78bfa&fire=22d3ee&currStreakLabel=a78bfa&sideLabels=f5f3ff&currStreakNum=f5f3ff&sideNums=f5f3ff&dates=a1a1aa" alt="Futabasama contribution streak" />
+
+</div>
+
+## Recent activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Futabasama&bg_color=0b0b14&color=f5f3ff&line=a78bfa&point=22d3ee&area=true&area_color=a78bfa&hide_border=true&hide_title=true&radius=8&custom_title=Recent+activity" alt="Futabasama activity graph" width="100%" />
+
+</div>
+
+## GitHub metrics
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/Futabasama?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&plugin_achievements=1&plugin_habits=1&plugin_lines=1" alt="Futabasama metrics" />
+
+</div>
+
+## Let’s connect
+
+<div align="center">
+
+
+
+</div>
+
+<div align="center">
+
+<sub>Thanks for visiting my profile.</sub>
+
+</div>
