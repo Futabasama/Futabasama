@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/166661639?v=4" alt="Ahlam tech" width="96" />
+<img src="https://avatars.githubusercontent.com/u/166661639?v=4" alt="AHLAM GARAH" width="96" />
 
-<h1>Hi, I’m Ahlam tech 👋</h1>
+<h1>Hi, I’m AHLAM GARAH 👋</h1>
 
 <p><strong>Full-stack developer . Software engineering student</strong></p>
 
@@ -56,27 +56,11 @@
 
 </div>
 
-## Recent activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Futabasama&bg_color=0b0b14&color=f5f3ff&line=a78bfa&point=22d3ee&area=true&area_color=a78bfa&hide_border=true&hide_title=true&radius=8&custom_title=Recent+activity" alt="Futabasama activity graph" width="100%" />
-
-</div>
-
-## GitHub metrics
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/Futabasama?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&plugin_achievements=1&plugin_habits=1&plugin_lines=1" alt="Futabasama metrics" />
-
-</div>
-
 ## Let’s connect
 
 <div align="center">
 
-
+<a href="mailto:ahlamgarah1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-a78bfa?style=flat&logo=gmail&logoColor=white" alt="Email Contact" /></a>
 
 </div>
 
